@@ -1,0 +1,49 @@
+h1,h2 { 
+        text-transform : uppercase ; 
+         text-align : center;
+   color: rgba(64,101,94,1.00); 
+        }
+
+/*.alex1 { float : right-top ; }*/
+
+/*nav { text-align:center; }*/
+
+#amlink:hover { color: ; 
+             background-color : transparent ;
+            text-decoration : underline ;}
+
+a:active {
+  color: gray ;
+  background-color: transparent;
+  text-decoration: underline; 
+		   }
+
+
+/*a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}*/
+
+
+/*.header{
+  height : 100px;
+width : 100px;
+background-image:url('./img/amheader.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+*/
+
+.header { width:100%;
+height:150px;
+
+background:url('../img/amheader1.jpg');
+
+background-repeat:no-repeat;
+
+background-position:fixed;
+
+border:6px solid rgba(64,101,127,1.00);
+  }
